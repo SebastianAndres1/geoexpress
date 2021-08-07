@@ -238,7 +238,7 @@ li a:hover{
     }
     li{
         margin: 0;
-        border-right:  3px red solid;
+        border-right:  3px #94ba0c solid;
     }
 
     li:last-child{
